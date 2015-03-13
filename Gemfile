@@ -11,7 +11,7 @@ gem "turbolinks", "2.5.3"
 gem "uglifier", "2.7.1"
 
 group :development, :test do
-  gem "byebug", "3.5.1"
+  gem "pry-byebug", "3.0.1"
   gem "web-console", "2.1.2"
   gem "spring", "1.3.3"
 end
